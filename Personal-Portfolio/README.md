@@ -28,3 +28,6 @@ Open `index.html` in a web browser. Keep all six website files in the same folde
 
 ## Important sample-data note
 All names, college details, email address and project descriptions are fictional examples. Replace them with accurate information before submitting. The contact form is only a front-end demonstration; it does not send messages without a backend or form service.
+
+## Author
+Built by Prasanna as part of the MERN Stack journey.
